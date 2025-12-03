@@ -1,3 +1,4 @@
 Hello Git!
 this is the 1st line
 this is from feature-1
+added new feature
